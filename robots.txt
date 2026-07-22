@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://franktopia33.github.io/notes-7dt3rk/sitemap.xml
